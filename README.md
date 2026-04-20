@@ -1,16 +1,20 @@
-## Hi there 👋
+Hi, I'm Dhruv Singh Shekhawat 👋
 
-<!--
-**dhruvsingh-shekhawat/dhruvsingh-shekhawat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 AI & Digital Marketing Specialist | Prompt Engineering Expert
 
-Here are some ideas to get you started:
+I help brands grow using AI-powered strategies and digital marketing.
+Currently building expertise in AI automation, SEO, and growth hacking
+for MNC-level roles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ My Skills
+- 🤖 Prompt Engineering (ChatGPT, Claude, Gemini)
+- 📈 Digital Marketing (SEO, Content Strategy, Social Media)
+- 🔄 AI Automation (Make.com, n8n)
+- 📊 Analytics (Google Analytics 4)
+
+🚀 Current Projects
+- AI-Powered SEO Audit Tool (in progress)
+- Instagram Growth Strategy using AI (completed)
+
+📫 Connect With Me
+- LinkedIn: www.linkedin.com/in/dhruv-singh-shekhawat-7b31483a9
